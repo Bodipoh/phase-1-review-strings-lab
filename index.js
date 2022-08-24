@@ -10,4 +10,4 @@ const excitedWelcomeMessage = welcomeMessage.toUpperCase();
 const firstInitial = 'Tie Got[0]';
 const restOfName = 'Tie Got.slice(1)';
 
-const shortGreeting = 'Welcome, Tie Got!';
+const shortGreeting = 'Welcome, ${T}!';
